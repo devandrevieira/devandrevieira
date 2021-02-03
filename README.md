@@ -5,3 +5,4 @@
 <p>📐 Technical drawing, AutoCad, Inventor</p>
 <p>👨🏻‍🍳 Cook in free time</p>
 <p>💡 "Knowledge is a treasure but practice is the key to it." - Thomas Fuller</p>
+<p>📍 Algarve - Portugal
