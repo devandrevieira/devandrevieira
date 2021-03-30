@@ -1,7 +1,7 @@
 
 ### Hello World! I'm André Vieira ✌🏻
 <p>🚀 Techinical Designer and currently studying systems development at IEFP</p>
-<p>💻 html, CSS, Javascrit, PHP, SQL, C</p>
+<p>💻 Learning html, CSS, Javascrit, PHP, MySQL, C, Java and Kotlin</p>
 <p>📐 Technical drawing, AutoCad, Inventor</p>
 <p>👨🏻‍🍳 Cook in free time</p>
 <p>📍 Algarve - Portugal</p>
